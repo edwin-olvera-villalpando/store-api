@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.edwinolvera.store</groupId>
-    <artifactId>store</artifactId>
+    <artifactId>store-api</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>store</name>
-    <description>store</description>
+    <name>store-api</name>
+    <description>Spring Boot REST API built while following a Spring Boot course, focusing on REST fundamentals and best practices.</description>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
